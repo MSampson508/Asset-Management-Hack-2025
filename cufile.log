@@ -1,0 +1,378 @@
+ 04-10-2025 13:16:39:221 [pid=48487 tid=48487] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:16:39:221 [pid=48487 tid=48487] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:16:39:221 [pid=48487 tid=48487] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:18:03:338 [pid=53596 tid=53596] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:18:03:339 [pid=53596 tid=53596] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:18:03:339 [pid=53596 tid=53596] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:38:36:20 [pid=101410 tid=101410] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:38:36:21 [pid=101410 tid=101410] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:38:36:21 [pid=101410 tid=101410] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:48:00:512 [pid=119245 tid=119245] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:48:00:513 [pid=119245 tid=119245] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:48:00:513 [pid=119245 tid=119245] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:49:02:445 [pid=123171 tid=123171] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:49:02:446 [pid=123171 tid=123171] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:49:02:446 [pid=123171 tid=123171] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:52:19:870 [pid=135533 tid=135533] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:52:19:870 [pid=135533 tid=135533] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:52:19:870 [pid=135533 tid=135533] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:53:49:946 [pid=140642 tid=140642] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:53:49:946 [pid=140642 tid=140642] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:53:49:946 [pid=140642 tid=140642] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:54:09:676 [pid=141902 tid=141902] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:54:09:676 [pid=141902 tid=141902] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:54:09:676 [pid=141902 tid=141902] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:59:12:591 [pid=149085 tid=149085] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:59:12:591 [pid=149085 tid=149085] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:59:12:591 [pid=149085 tid=149085] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 13:59:51:658 [pid=151824 tid=151824] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 13:59:51:658 [pid=151824 tid=151824] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 13:59:51:658 [pid=151824 tid=151824] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:01:34:981 [pid=158420 tid=158420] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:01:34:981 [pid=158420 tid=158420] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:01:34:981 [pid=158420 tid=158420] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:03:40:541 [pid=162156 tid=162156] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:03:40:542 [pid=162156 tid=162156] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:03:40:542 [pid=162156 tid=162156] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:05:02:18 [pid=167590 tid=167590] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:05:02:18 [pid=167590 tid=167590] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:05:02:18 [pid=167590 tid=167590] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:05:28:305 [pid=169186 tid=169186] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:05:28:306 [pid=169186 tid=169186] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:05:28:306 [pid=169186 tid=169186] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:10:06:108 [pid=177405 tid=177405] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:10:06:108 [pid=177405 tid=177405] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:10:06:108 [pid=177405 tid=177405] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:14:23:996 [pid=194359 tid=194359] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:14:23:996 [pid=194359 tid=194359] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:14:23:996 [pid=194359 tid=194359] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:16:23:715 [pid=202476 tid=202476] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:16:23:716 [pid=202476 tid=202476] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:16:23:716 [pid=202476 tid=202476] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:29:07:785 [pid=256245 tid=256245] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:29:07:786 [pid=256245 tid=256245] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:29:07:786 [pid=256245 tid=256245] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:29:52:681 [pid=258925 tid=258925] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:29:52:682 [pid=258925 tid=258925] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:29:52:682 [pid=258925 tid=258925] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:30:26:639 [pid=260856 tid=260856] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:30:26:639 [pid=260856 tid=260856] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:30:26:639 [pid=260856 tid=260856] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:30:43:863 [pid=261742 tid=261742] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:30:43:863 [pid=261742 tid=261742] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:30:43:864 [pid=261742 tid=261742] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:35:49:411 [pid=283462 tid=283462] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:35:49:412 [pid=283462 tid=283462] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:35:49:412 [pid=283462 tid=283462] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:36:39:16 [pid=286870 tid=286870] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:36:39:16 [pid=286870 tid=286870] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:36:39:16 [pid=286870 tid=286870] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:37:44:731 [pid=291636 tid=291636] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:37:44:731 [pid=291636 tid=291636] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:37:44:731 [pid=291636 tid=291636] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:38:00:968 [pid=292883 tid=292883] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:38:00:969 [pid=292883 tid=292883] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:38:00:969 [pid=292883 tid=292883] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:39:18:154 [pid=300729 tid=300729] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:39:18:155 [pid=300729 tid=300729] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:39:18:155 [pid=300729 tid=300729] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 14:42:26:540 [pid=324417 tid=324417] ERROR  cufio-cuda:140 unable to load,  libcuda.so.1 
+
+ 04-10-2025 14:42:26:541 [pid=324417 tid=324417] ERROR  cufio_core:956 missing cuda symbols while dynamic loading
+ 04-10-2025 14:42:26:541 [pid=324417 tid=324417] ERROR  cufio_core:1097 cuFile initialization failed
+ 04-10-2025 17:38:46:657 [pid=367961 tid=367961] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 17:38:47:93 [pid=367961 tid=367961] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 17:38:47:94 [pid=367961 tid=367961] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 17:43:53:447 [pid=427705 tid=427705] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 17:43:53:862 [pid=427705 tid=427705] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 17:44:32:108 [pid=435618 tid=435618] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 17:44:32:589 [pid=435618 tid=435618] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:44:32:589 [pid=435618 tid=435618] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:44:32:589 [pid=435618 tid=435618] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 17:44:32:590 [pid=435618 tid=435618] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 17:44:32:590 [pid=435618 tid=435618] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 17:44:32:590 [pid=435618 tid=435618] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 17:44:32:590 [pid=435618 tid=435618] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 17:44:32:590 [pid=435618 tid=435618] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 18:17:55:930 [pid=817889 tid=817889] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 18:17:56:356 [pid=817889 tid=817889] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 18:20:53:528 [pid=854788 tid=854788] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 18:20:54:89 [pid=854788 tid=854788] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 18:20:54:89 [pid=854788 tid=854788] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 18:20:54:90 [pid=854788 tid=854788] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 19:18:19:515 [pid=1570025 tid=1570025] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 19:18:19:948 [pid=1570025 tid=1570025] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 19:37:05:346 [pid=1878166 tid=1878166] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 19:37:05:835 [pid=1878166 tid=1878166] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 19:38:07:914 [pid=1893897 tid=1893897] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 19:38:08:330 [pid=1893897 tid=1893897] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 19:50:58:620 [pid=2071517 tid=2071517] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 19:50:59:48 [pid=2071517 tid=2071517] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 19:51:37:212 [pid=2079813 tid=2079813] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 19:51:37:643 [pid=2079813 tid=2079813] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 20:42:38:871 [pid=2683959 tid=2683959] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 20:42:39:522 [pid=2683959 tid=2683959] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 20:42:39:523 [pid=2683959 tid=2683959] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 20:42:39:524 [pid=2683959 tid=2683959] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 20:42:39:524 [pid=2683959 tid=2683959] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 20:42:39:525 [pid=2683959 tid=2683959] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 20:42:39:525 [pid=2683959 tid=2683959] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 20:42:39:526 [pid=2683959 tid=2683959] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 20:42:39:526 [pid=2683959 tid=2683959] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:03:50:896 [pid=3009878 tid=3009878] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:03:51:616 [pid=3009878 tid=3009878] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:04:27:458 [pid=3018181 tid=3018181] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:04:28:226 [pid=3018181 tid=3018181] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:04:28:227 [pid=3018181 tid=3018181] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:04:28:227 [pid=3018181 tid=3018181] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:04:28:227 [pid=3018181 tid=3018181] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:04:28:227 [pid=3018181 tid=3018181] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:04:28:228 [pid=3018181 tid=3018181] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:04:28:228 [pid=3018181 tid=3018181] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:04:28:228 [pid=3018181 tid=3018181] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:07:43:104 [pid=3068446 tid=3068446] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:07:43:644 [pid=3068446 tid=3068446] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:07:43:645 [pid=3068446 tid=3068446] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:07:43:645 [pid=3068446 tid=3068446] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:07:43:646 [pid=3068446 tid=3068446] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:07:43:646 [pid=3068446 tid=3068446] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:07:43:647 [pid=3068446 tid=3068446] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:07:43:647 [pid=3068446 tid=3068446] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:07:43:648 [pid=3068446 tid=3068446] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:08:27:481 [pid=3079316 tid=3079316] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:08:28:163 [pid=3079316 tid=3079316] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:08:28:164 [pid=3079316 tid=3079316] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:08:28:165 [pid=3079316 tid=3079316] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:08:28:165 [pid=3079316 tid=3079316] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:08:28:166 [pid=3079316 tid=3079316] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:08:28:166 [pid=3079316 tid=3079316] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:08:28:167 [pid=3079316 tid=3079316] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:08:28:167 [pid=3079316 tid=3079316] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:10:39:438 [pid=3112174 tid=3112174] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:10:40:28 [pid=3112174 tid=3112174] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:11:23:617 [pid=3123147 tid=3123147] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:11:24:183 [pid=3123147 tid=3123147] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:11:24:187 [pid=3123147 tid=3123147] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:11:24:187 [pid=3123147 tid=3123147] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:11:24:188 [pid=3123147 tid=3123147] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:11:24:188 [pid=3123147 tid=3123147] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:11:24:188 [pid=3123147 tid=3123147] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:11:24:189 [pid=3123147 tid=3123147] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:11:24:189 [pid=3123147 tid=3123147] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:12:50:676 [pid=3143857 tid=3143857] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:12:51:267 [pid=3143857 tid=3143857] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:12:51:268 [pid=3143857 tid=3143857] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:12:51:269 [pid=3143857 tid=3143857] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:12:51:269 [pid=3143857 tid=3143857] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:12:51:269 [pid=3143857 tid=3143857] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:12:51:270 [pid=3143857 tid=3143857] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:12:51:270 [pid=3143857 tid=3143857] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:12:51:270 [pid=3143857 tid=3143857] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:13:30:416 [pid=3153734 tid=3153734] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:13:31:78 [pid=3153734 tid=3153734] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:13:31:81 [pid=3153734 tid=3153734] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:13:31:82 [pid=3153734 tid=3153734] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:13:31:82 [pid=3153734 tid=3153734] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:13:31:83 [pid=3153734 tid=3153734] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:13:31:83 [pid=3153734 tid=3153734] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:13:31:84 [pid=3153734 tid=3153734] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:13:31:84 [pid=3153734 tid=3153734] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:14:21:817 [pid=3165821 tid=3165821] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:14:22:540 [pid=3165821 tid=3165821] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:15:16:98 [pid=3177991 tid=3177991] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:15:16:649 [pid=3177991 tid=3177991] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:15:16:649 [pid=3177991 tid=3177991] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:15:16:650 [pid=3177991 tid=3177991] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:15:16:650 [pid=3177991 tid=3177991] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:15:16:650 [pid=3177991 tid=3177991] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:15:16:651 [pid=3177991 tid=3177991] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:15:16:651 [pid=3177991 tid=3177991] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:15:16:651 [pid=3177991 tid=3177991] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:18:13:755 [pid=3224830 tid=3224830] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:18:14:184 [pid=3224830 tid=3224830] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:19:18:0 [pid=3242597 tid=3242597] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:19:18:466 [pid=3242597 tid=3242597] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:37:22:122 [pid=3592760 tid=3592760] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:37:22:587 [pid=3592760 tid=3592760] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 21:40:43:211 [pid=3651548 tid=3651548] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 21:40:43:656 [pid=3651548 tid=3651548] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 22:14:12:604 [pid=4075543 tid=4075543] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 22:14:13:38 [pid=4075543 tid=4075543] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:14:13:38 [pid=4075543 tid=4075543] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:14:13:38 [pid=4075543 tid=4075543] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 22:14:13:39 [pid=4075543 tid=4075543] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:14:13:39 [pid=4075543 tid=4075543] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:14:13:39 [pid=4075543 tid=4075543] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 22:14:13:39 [pid=4075543 tid=4075543] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 22:14:13:39 [pid=4075543 tid=4075543] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 22:16:55:966 [pid=4110580 tid=4110580] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 22:16:56:420 [pid=4110580 tid=4110580] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 22:22:01:331 [pid=4166478 tid=4166478] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 22:22:01:753 [pid=4166478 tid=4166478] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:22:01:753 [pid=4166478 tid=4166478] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 22:22:01:754 [pid=4166478 tid=4166478] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 04-10-2025 22:26:43:157 [pid=24545 tid=24545] NOTICE  cufio-drv:830 running in compatible mode
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 04-10-2025 22:26:43:602 [pid=24545 tid=24545] ERROR  cufio:339 cuFileHandleRegister error: internal error
+ 05-10-2025 00:03:09:189 [pid=894087 tid=894087] NOTICE  cufio-drv:830 running in compatible mode
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio-fs:327 error creating udev_device for block device dev_no: 0:65
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio-fs:759 error getting volume attributes error for device: dev_no: 0:65
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio-obj:242 unable to get volume attributes for fd 35
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio:311 cuFileHandleRegister error, failed to allocate file object
+ 05-10-2025 00:03:09:621 [pid=894087 tid=894087] ERROR  cufio:339 cuFileHandleRegister error: internal error
